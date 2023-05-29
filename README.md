@@ -34,7 +34,9 @@ First of all do the standard stuff, port forward the ports 80 and 443, yadayada
 # Special Thanks:
 
 Everyone in the Reboot Team for helping with preserving this amazing game
+
 FairPlay137 for creating the original Golang file I based this on
-And you, for playing your part in game preservation.
+
+And you, for playing your part in the fight for videogame preservation.
 
 Thank you.

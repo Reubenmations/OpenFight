@@ -31,7 +31,8 @@ First of all do the standard stuff, port forward the ports 80 and 443, yadayada
 5. Edit it to be your IP, webserver, website, whatever your server is on and if there is any space, put 1 / and as many .'s needed till just before you plow into 'EventMaster.json' (The URL can only be as long or shorter than the original URL, or you plow into already existing code.)
 6. Save the SO file, and then use a tool like APK Editor Pro (find it yourself) to replace the original 'libcocos2dcpp.so' file with your newly edited one. Simply compile and boom, you should have a working Fight APK if done right!
 
-Special Thanks:
+# Special Thanks:
+
 Everyone in the Reboot Team for helping with preserving this amazing game
 FairPlay137 for creating the original Golang file I based this on
 And you, for playing your part in game preservation.

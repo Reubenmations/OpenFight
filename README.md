@@ -1,7 +1,7 @@
 If your here to play ABF, I would instead use ABF: Reboot which is downloadable at https://www.starpixelproductions.com/angrybirds-fight-reboot since it's actually more usable than this (no compiling an APK or IPA yourself), has more working features and even things like events and arena.
 
 # OpenFight
-a long shot at making a working ABF 'K side' replacement server that can be used with Apache, open sourced here on github forever to be preserved.
+A working ABF 'K side' replacement server that can be used with Apache, open sourced here on github forever to be preserved.
 
 
 Progress: Partially playable (as playable as having only the 'K side' server will ever be :P)

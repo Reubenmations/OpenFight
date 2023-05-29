@@ -5,7 +5,7 @@ Progress: Partially playable
 
 This project is free to be used in your revivals of the game, and no credit is needed however some would be appreciated :)
 
-If your here to play ABF, I would instead use ABF: Reboot @ https://www.starpixelproductions.com/angrbirds-fight-reboot since it's actually playable, has more working features and you don't have to create it yourself.
+If your here to play ABF, I would instead use ABF: Reboot @ https://www.starpixelproductions.com/angrybirds-fight-reboot since it's actually playable, has more working features and you don't have to create it yourself.
 
 # How do I use this?
 
